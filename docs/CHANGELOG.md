@@ -1,0 +1,9 @@
+# Changelog: Visual Capitalist
+
+All notable changes, architectural milestones, and phase completions are documented here.
+This file is updated during `/project-checkpoint` milestones.
+
+## [Unreleased]
+- Initial repository scaffolding using the Interpretable Context Methodology (ICM).
+- Configured Layer 1 routing map (`AGENTS.md`) and Layer 2 room contracts (`CONTEXT.md`).
+- Deployed core skills suite and established `.claude/skills` cross-agent junction.
